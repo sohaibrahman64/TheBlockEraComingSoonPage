@@ -1,8 +1,8 @@
 {
-  "name": "mailchimp-newsletter",
-  "author": "Brad Traversy",
+  "name": "TheBlockEraComingSoonPage",
+  "author": "Sohaib Rahman",
   "version": "1.0.0",
-  "description": "Simple news letter app using mailchimp",
+  "description": "Informs visitors about decentralized currency that will help e-commerce entrepreneurs to transact directly with the customers.",
   "main": "index.js",
   "scripts": {
     "start": "node app",
